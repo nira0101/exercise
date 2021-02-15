@@ -50,3 +50,6 @@ console.log(wulf);
 console.log(wu);
 console.log(ris);
 console.log(vus);
+
+
+//8 feb
